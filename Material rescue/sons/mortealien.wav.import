@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mortealien.wav-5b36e91e61b185c3a4d1fc985b744581.sample"
+
+[deps]
+
+source_file="res://Material rescue/sons/mortealien.wav"
+dest_files=[ "res://.import/mortealien.wav-5b36e91e61b185c3a4d1fc985b744581.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
